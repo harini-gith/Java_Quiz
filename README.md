@@ -14,16 +14,14 @@ A simple quiz application built in Java to practice creating graphical user inte
 
 Follow these steps to run the quiz application on your local machine:
 
-1. Clone the repository: `git clone https://github.com/thdonadkar/Quiz-Application.git`
-2. Compile the Java files: `javac QuizApp.java`
-3. Run the application: `java QuizApp`
-4. Answer the questions within the 15-second time limit.
+1. Clone the repository: `git clone https://github.com/harini-gith/Java_Quiz.git`
+2. cd Quiz-Application-Using-Java\src
+3. Compile the Java files: `javac quiz/application/*.java`
+4. Run the application: `java quiz.application.Login`
+5. Answer the questions within the 15-second time limit.
 
 ## Screenshots
-![Screenshot (2029)](https://github.com/thdonadkar/Quiz-Application/assets/72977141/d0236111-a5f5-4478-8228-cb5764ec1c60)
-![Screenshot (2030)](https://github.com/thdonadkar/Quiz-Application/assets/72977141/572ce55f-5374-42ed-8da6-da307823fb99)
-![Screenshot (2031)](https://github.com/thdonadkar/Quiz-Application/assets/72977141/603f25fe-030f-4296-b332-601517904520)
-
+Screenshots in the repo screenshot folder
 
 ## Contributing
 
@@ -38,7 +36,3 @@ Contributions are welcome! If you'd like to add more questions, improve the UI, 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact me at thdonadkar413@email.com.
